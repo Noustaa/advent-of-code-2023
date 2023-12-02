@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day_1", "day_1\day_1.csproj", "{9D12B4F1-A1F7-461B-9E3B-16AF41056407}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day_1", "src\day_1\day_1.csproj", "{9D12B4F1-A1F7-461B-9E3B-16AF41056407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day_2", "day_2\day_2.csproj", "{D41DED99-3778-454D-9892-8D2E02EE375A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day_2", "src\day_2\day_2.csproj", "{D41DED99-3778-454D-9892-8D2E02EE375A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
